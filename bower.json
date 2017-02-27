@@ -4,8 +4,8 @@
   "main": "",
   "license": "Apache-2.0",
   "moduleType": [],
-  "homepage": "http://nasa.github.io/openmct/",
-  "private": true,
+  "homepage": "",
+  "private": false,
   "dependencies": {
     "angular": "1.4.4",
     "angular-route": "1.4.4",

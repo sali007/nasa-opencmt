@@ -26,7 +26,7 @@
 
 OUTPUT_DIRECTORY="dist/docs"
 # Docs, once built, are pushed to the private website repo
-REPOSITORY_URL="git@github.com:nasa/openmct-website.git"
+REPOSITORY_URL="git@github.com:sali007/nasa-opencmt.git"
 WEBSITE_DIRECTORY="website"
 
 BUILD_SHA=`git rev-parse HEAD`
